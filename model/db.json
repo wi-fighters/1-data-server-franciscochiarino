@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "title": "Live in Cook County Jail",
+      "artist": "B.B. King",
+      "year": 1971,
+      "coverImg": "https://www.rollingstone.com/wp-content/uploads/2018/06/81guooei4dl_sl1109_-b0b72075-24e3-4a98-a8d5-a9c32b1e3d79.jpg?resize=1240,1240&w=385",
+      "price": 9.99,
+      "id": 0
+    },
+    {
+      "title": "White Blood Cells",
+      "artist": "The White Stripes",
+      "year": 2001,
+      "coverImg": "https://www.rollingstone.com/wp-content/uploads/2018/06/jbwswbc-a82c0360-1d89-40cb-8b75-5cbcb11c9ae1.jpg?resize=1240,1240&w=385",
+      "price": 9.99,
+      "id": 1
+    },
+    {
+      "title": "Life After Death",
+      "artist": "The Notorious B.I.G.",
+      "year": 1997,
+      "coverImg": "https://www.rollingstone.com/wp-content/uploads/2018/06/notorious-big-life-after-death-e80ddc0d-b0e9-436c-aef9-4812afdd3d24.jpg?resize=1240,1240&w=385",
+      "price": 9.99,
+      "id": 2
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "year": 2007,
+      "coverImg": "https://www.rollingstone.com/wp-content/uploads/2018/06/amy-winehouse-back-to-black-7579fe06-2dab-496a-a510-3ff389357194.jpg?resize=1240,1240&w=385",
+      "price": 9.99,
+      "id": 3
+    }
+  ]
+}

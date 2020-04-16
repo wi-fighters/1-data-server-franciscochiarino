@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <style>
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    h1, input {
+      margin-bottom: 1rem;
+    }
+
+    label, input {
+      display: block;
+    }
+
+  </style>
+  <body>
+    <h1><%= title %></h1>
+
+    <form action="/api/records" method="POST">
+      <label>Title
+        <input type="text" name="title">
+      </label>
+      <label>Artist
+        <input type="text" name="artist">
+      </label>
+      <label>Year
+        <input type="text" name="year">
+      </label>
+      <label>Cover Path
+        <input type="text" name="coverImg">
+      </label>
+      <label>Price
+        <input type="text" name="price">
+      </label>
+      <button type="submit">Add Album</button>
+    </form>
+
+  </body>
+</html>
